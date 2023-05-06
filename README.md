@@ -27,13 +27,15 @@ To run the Easy Notes App on your local machine, you will need to have the follo
 - PHP
 - MySQL
 
-Or simply use XAMPP
+OR
+
+- Simply use XAMPP
 
 After installing the necessary software, follow these steps to set up the application:
 
 1. Clone or download the Easy Notes App source code from the GitHub repository.
 2. Extract the files and copy them to your Apache web server's root directory.
-3. Create a MySQL database and import the `database.sql` file provided in the `database` folder.
+3. Create a MySQL database and import the `notesdb.sql` file.
 4. Edit the `config.php` file in the `includes` folder and set your database connection details.
 5. Start your Apache web server and navigate to `http://localhost/easy-notes` in your web browser.
 
@@ -42,10 +44,26 @@ After installing the necessary software, follow these steps to set up the applic
 To use the Easy Notes App, follow these steps:
 
 1. Register for a new account by clicking the "Sign up" button on the login page.
+
+![Sign up](screenshot/Sign_up.JPG)
+
 2. Log in using your email and password.
+
+![Login](screenshot/Log_in.JPG)
+
 3. To create a new note, click the "+" button and enter your note's title and content.
+
+![New note](screenshot/New_note.JPG)
+
 4. To view, edit, or delete a note, click the corresponding action note card.
+
+![Edit note](screenshot/Edit_note.JPG)
+
+![Delete note](screenshot/Delete_note.JPG)
+
 5. To search for a note, enter a keyword in the search bar.
+
+![Search note](screenshot/Search_note.JPG)
 
 ## Contributions
 
