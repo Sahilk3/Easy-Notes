@@ -35,7 +35,7 @@ if ($res->num_rows>0) {
         
       
       // notes cards
-      echo '<div class="btn btn-outline-secondary py-2 ps-2 pe-5 m-4 rounded-3 border border-secondary position-relative">
+      echo '<div class="btn btn-outline-secondary py-2 ps-2 pe-5 m-4 rounded-3 border border-secondary position-relative d-flex flex-fill d-md-inline-flex">
       <div class="vr position-absolute top-0 start-0 text-warning mt-2 ps-1 display-5 rounded-5"></div>
       <div class="dropdown pt-1 position-absolute top-0 end-0">
       <button class="btn btn-outline-info border-0 rounded-4 " type="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-three-dots-vertical"></i></button>
