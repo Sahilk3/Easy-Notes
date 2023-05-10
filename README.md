@@ -65,6 +65,10 @@ To use the Easy Notes App, follow these steps:
 
 ![Search note](screenshot/Search_note.JPG)
 
+## Live Demo
+
+You can try the live demo of this project by clicking on the following link: [https://easy-notess.000webhostapp.com/](https://easy-notess.000webhostapp.com/)
+
 ## Contributions
 
 If you would like to contribute to the Easy Notes App, please follow these guidelines:
