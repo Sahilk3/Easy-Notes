@@ -67,7 +67,7 @@ To use the Easy Notes App, follow these steps:
 
 ## Live Demo
 
-You can try the live demo of this project by clicking on the following link: [https://easy-notess.000webhostapp.com/](https://easy-notess.000webhostapp.com/)
+You can try the live demo of this project by clicking on the following link: [easynotes.great-site.net](easynotes.great-site.net)
 
 ## Contributions
 
